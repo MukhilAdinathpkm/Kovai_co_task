@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Notes
+###  Notes
 - **Weekdays (Mon–Fri):** Stable high ridership across all major services.  
 - **Weekends (Sat–Sun):** Significant drop — consistent with observed travel behavior.  
 - **Most popular service:** Rapid Route  
