@@ -9,15 +9,21 @@
 
 -  **Busiest Months:**
   - *February* and *March* record the highest total ridership across all services.
+  - <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/301016f2-0e61-4461-b132-9645333762c5" />
+
 
 -  **Busiest Days:**
   - *Tuesday* and *Wednesday* show the highest weekday passenger counts.
+  - <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/e7250a55-aad5-4f99-b142-f74fcbc012fe" />
+
 
 -  **Most Availed Service:**
   - *Rapid Route* remains the most frequently used mode every year.
 
 -  **Least Availed Service:**
   - *Peak Service* consistently records the lowest ridership.
+  - <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/c4318cd0-f268-43b6-9a6b-c9793a726ebb" />
+
 
 ---
 
